@@ -1,6 +1,4 @@
-### Quem sou eu?
-Um Engenheiro de Dados apaixonado pela área de Dados.
-Abaixo, algumas tecnologias e ferramentas que ja utilizei para realização de projetos ou trabalhando.
+#### Algumas tecnologias e ferramentas que ja utilizei para realização de projetos ou trabalhando.
 
 ### Linguagem
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=30)
