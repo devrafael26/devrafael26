@@ -1,6 +1,9 @@
 ### Linguagem de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=30)
 
+### Ferramentas e Tecnologias
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 <!--
 **devrafael26/devrafael26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
