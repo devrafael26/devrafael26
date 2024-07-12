@@ -1,4 +1,4 @@
-### Linguagem de Programação
+## Linguagem de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=30)
 
 ### Ferramentas e Tecnologias
