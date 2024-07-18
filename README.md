@@ -3,7 +3,7 @@
 ### Linguagem
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=30)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=SQL&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=SQL&logoColor=FFD43B&logoWidth=30)
 
 
 ### Tecnologias
