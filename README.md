@@ -31,7 +31,10 @@
 ### Cloud
 ![Azure MySQL](https://img.shields.io/badge/Azure_MySQL-4479A1?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure SQL Server](https://img.shields.io/badge/Azure_SQL_Server-0038A8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Google_Cloud_Platform-blue?logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+
+
+
 
 
 
