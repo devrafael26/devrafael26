@@ -24,6 +24,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=30)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=30)
+[![Plotly](https://img.shields.io/badge/Plotly-2396F3?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,6 +37,7 @@
 ![Azure MySQL](https://img.shields.io/badge/Azure_MySQL-4479A1?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure SQL Server](https://img.shields.io/badge/Azure_SQL_Server-0038A8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
 
 
 
