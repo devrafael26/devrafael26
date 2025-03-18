@@ -6,6 +6,8 @@
 ![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=SQL&logoColor=FFD43B&logoWidth=30)
 
 ### ☁️ Cloud e Plataformas de Dados
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300ADF2?style=for-the-badge&logo=snowflake&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-%23FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
