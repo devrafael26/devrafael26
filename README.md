@@ -8,7 +8,6 @@
 ### ☁️ Cloud e Plataformas de Dados
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2300ADF2?style=for-the-badge&logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
@@ -33,6 +32,7 @@
 
 ### 🛠️ Orquestração e Containerização
 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-%23FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
