@@ -30,7 +30,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🛠️ Orquestração e Containerização
+### 🛠️ Orquestração, Transformação e Containerização
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-%23FF694B?style=for-the-badge&logo=dbt&logoColor=white)
